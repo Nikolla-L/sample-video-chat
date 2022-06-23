@@ -1,1 +1,1 @@
-# sample-video-chat
+# sample-video-chat with node.js, socket.io and WebRTC
